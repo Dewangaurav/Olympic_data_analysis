@@ -1,6 +1,6 @@
 # Olympic_data_analysis
 
-### introduction
+### Introduction
 
 The Olympics represent the pinnacle of international sports competition, bringing together athletes from around the globe to compete in a wide array of events. With over a century of rich history, the Olympics offer a treasure trove of data waiting to be analyzed. This project leverages SQL to explore and extract insights from 120 years of Olympic history, utilizing two extensive datasets: athletes and athlete_events.
 
